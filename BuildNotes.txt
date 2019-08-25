@@ -1,3 +1,7 @@
 Check this if it doesnt build
 
 https://reactnativeforyou.com/react-native-error-fix-error-unable-to-resolve-module-index-from-node_modulesreact-nativescripts/
+
+For chatting
+
+https://developers.connectycube.com/js/messaging?id=get-started-with-sdk
