@@ -1,0 +1,3 @@
+Check this if it doesnt build
+
+https://reactnativeforyou.com/react-native-error-fix-error-unable-to-resolve-module-index-from-node_modulesreact-nativescripts/
